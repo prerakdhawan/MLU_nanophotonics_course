@@ -7,4 +7,7 @@ This tutorial series first gives a general overview of few numerical techniques 
 
 To get started with the assignment, use the `launch binder` icon above and look at the uploaded notebooks (`.ipynb` files). The assignments questions will also be uploaded here.
 
-<font style="color:red"> Please note : Since the Binder version runs on the cloud, it will delete your progress and the generated files within 2-3 hours of an active session and **within 10 minutes** of an inactive/idle session. Please save your notebooks, scripts and plots regularly to avoid data loss and progress. </font>
+```diff
+- Please note : Since the Binder version runs on the cloud, it will delete your progress and the generated files within 2-3 hours of an active session and **within 10 minutes** of an inactive/idle session. Please save your notebooks, scripts and plots regularly to avoid data loss and progress.
+```
+
