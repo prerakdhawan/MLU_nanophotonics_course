@@ -1,0 +1,13 @@
+name: computational_photonics_2026
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - tmux
+  - matplotlib
+  - pymeep
+  - jupyterlab
+  - scipy
+  - ffmpeg
